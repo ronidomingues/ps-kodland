@@ -1,6 +1,5 @@
 # Permited libraries to use this code
 import random
-import math
 from pygame import Rect
 
 # PgZero variables

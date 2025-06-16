@@ -1,2 +1,2 @@
-# Diretórios ignorado no Push:
+# Diretórios ignorado durante o Push para o GitHub:
 .venv/
